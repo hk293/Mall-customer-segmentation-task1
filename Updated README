@@ -1,0 +1,23 @@
+
+# Mall Customer Segmentation - Task 1
+
+## Task Description
+Data cleaning task using Excel for Mall Customer Segmentation dataset.
+
+## Dataset Used
+- Mall_Customers.csv (original dataset from Kaggle)
+- Mall_Customer_Cleaned.csv (cleaned version)
+
+## Tools Used
+- Microsoft Excel
+
+## Cleaning Steps Done
+- Removed missing values
+- Corrected data types
+- Standardized column names
+- Checked for outliers
+
+## Done by
+Harleen kaur 
+MBA Student
+
